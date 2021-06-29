@@ -1,4 +1,4 @@
-# Latent Semantic Analysis for Topic Modelling
+# Latent Semantic Analysis for Topic Modeling
 
 ## Table of contents
 
